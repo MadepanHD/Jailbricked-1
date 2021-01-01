@@ -1,13 +1,4 @@
-spunk = { "This auto arrest was unpatched by u/ thatHEXdude",
-"MyUsernamesThis, it is NOT blablabla, it is u/thatHEXdude oh god you cant even read what's written",
-"I think you can appreciate u /thatHEXdude for unpatching this script!!",
-"Thanks go to jailbreak admin bayat for being cool and helping us with the backdoor :0",
-"ASIMO u said NO MORE AUTO ARRESTERS! whats this THEN?",
-"u/thatHEXdude literally unpatched arresting within 2 days",
- "Hey asimo, if you are reading this, msg u / thatHEXdude on rettid. ok thx",
- "Im glad im using this autoarrest farm by Federal 9999 on DIZZY.",
- "Broo u/  thatHEXdude slapped this server",
- "Bunu okuyan turk varsa oturup aglasin"
+spunk = { ""
 }
 
 spawn(function()
